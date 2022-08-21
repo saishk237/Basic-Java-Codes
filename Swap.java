@@ -25,3 +25,16 @@ public class Swap
 		swap(num1,num2);
 	}
 }
+
+/*
+OUTPUT:
+C:\Users\saishk237\Desktop>java Swap
+Enter Num1: 25
+Enter Num2: 50
+Before Swapping....
+Num1: 25
+Num2: 50
+After Swapping....
+Num1: 50
+Num2: 25
+*/
